@@ -1,11 +1,11 @@
 ---
 extends: _layouts.post
 section: content
-title: Fuse Search
+title: Php avancé
 date: 2018-12-22
 description: Fast local search powered by FuseJS
-cover_image: /assets/img/post-cover-image-1.png
-categories: [feature]
+cover_image: /assets/img/php.png
+categories: [php]
 ---
 
 To provide fast, local search of your blog, this starter template comes with a pre-built Vue.js component that uses Fuse.js. [Fuse.js](http://fusejs.io/) is a "lightweight fuzzy-search library with _no_ dependencies." It works by running queries against a JSON index of your content.

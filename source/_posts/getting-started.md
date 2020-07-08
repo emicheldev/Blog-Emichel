@@ -1,12 +1,12 @@
 ---
 extends: _layouts.post
 section: content
-title: Getting Started
+title: Les balises
 date: 2018-12-25
 description: Getting started with the Jigsaw blog starter template
-cover_image: /assets/img/post-cover-image-2.png
+cover_image: /assets/img/css.png
 featured: true
-categories: [configuration]
+categories: [css, html]
 ---
 
 This is a starter template for creating a beautiful, customizable blog with minimal effort. You’ll only have to change a few settings and you’re ready to go.<!-- more -->

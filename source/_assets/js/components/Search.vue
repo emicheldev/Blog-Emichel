@@ -14,7 +14,7 @@
                 :class="{ 'transition-border': query }"
                 autocomplete="off"
                 name="search"
-                placeholder="Search"
+                placeholder="RECHERCHER DES ARTICLES"
                 type="text"
                 @keyup.esc="reset"
                 @blur="reset"
